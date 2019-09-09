@@ -22,9 +22,15 @@ DB를 이용하지 않고 java만으로 만든 은행관리시스템
 기능별 메소드
 
 도움말 => help() 
+
 계좌관리 => openAccount(), deleteAccount(), createAccount(), creatPassword(), checkAccount(), moklok() 
+
 입출금 => input(), inMoney(), outMoney() 
+
 계좌이체 => sendMoney() 
+
 환전 => exchange() 
+
 등급조회 => point() 
+
 관리자모드 => owner()
